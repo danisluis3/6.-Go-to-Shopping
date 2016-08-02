@@ -1,0 +1,13 @@
+﻿Bước 1: Tách ảnh từ photoshop ra có thể dùng slice tool hoặc là create small object
+<div class="col-md-6 col-xs-12 col-sm-12 col-lg-6">
++ col-lg-6 hoặc col-md-6 là chúng ta muốn hiển thị chi tiết rõ ràng từng phần ra 
++ col-xm-12 hoặc col-sm-12 chúng ta muốn hiển thị một phần nào đó.
++ col-xs-6 khi thu về ta chỉ chém 1/2 của width 
+=> còn col-xs-12 khi thu về ta chém toàn phần của width nhé.
+Bước 2: Tùy chỉnh border http://www.cssmatic.com/border-radius 
+=> Vào trang đó lấy dữ liệu và tùy chĩnh
+Bước 3: Hiệu ứng với javascript nhé.
+=> Chèn class vào thôi nhé: http://mynameismatthieu.com/WOW/docs.html
+ví dụ: wow sliceInLeft
+=> http://daneden.github.io/animate.css/
+
